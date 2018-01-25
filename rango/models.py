@@ -9,9 +9,10 @@ class Category(models.Model):
 	likes = models.IntegerField(default=0)
 	slug = models.SlugField(unique=True)
 	
-	def save(self, *args, **kwargs):
+	def save(self):
 		self.slug = slugify(self.name)
-		super(Category, self).save(*args, **kwargs2)
+		super(Category, self).save()
+
 	def __str__(self): # For Python 2, use __unicode__ too
 		return self.name
 

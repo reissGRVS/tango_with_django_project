@@ -3,9 +3,9 @@ from django.http import HttpResponse
 from rango.models import Category, Page
 
 def index(request):
-	categories_liked = Category.objects.order_by('-likes')[:5]
-	categories_viewed = Category.objects.order_by('-views')[:5]
-	context_dict = {'categories_liked': categories_liked, 'categories_viewed': categories_viewed}
+	categories = Category.objects.order_by('-likes')[:5]
+	pages = Page.objects.order_by('-views')[:5]
+	context_dict = {'categories': categories, 'pages': pages}
 	return render(request, 'rango/index.html', context=context_dict)
 
 def about(request):

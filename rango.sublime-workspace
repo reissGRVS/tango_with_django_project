@@ -1,0 +1,330 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cat",
+				"categories_viewed"
+			],
+			[
+				"con",
+				"context_dict"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"conte",
+				"context_dict"
+			],
+			[
+				"cater",
+				"category_name_slug"
+			],
+			[
+				"Cate",
+				"CategoryAdmin"
+			],
+			[
+				"MEDIA_",
+				"MEDIA_DIR"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "templates/rango/index.html",
+			"settings":
+			{
+				"buffer_size": 950,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/rango/about.html",
+			"settings":
+			{
+				"buffer_size": 374,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++11/C++11.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 384.0,
+		"last_filter": "install ",
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 465.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/reiss/Documents/tango_with_django_project",
+		"/home/reiss/Documents/tango_with_django_project/templates",
+		"/home/reiss/Documents/tango_with_django_project/templates/rango"
+	],
+	"file_history":
+	[
+		"/home/reiss/Documents/rango_tests-master/output/2253147/results.json",
+		"/home/reiss/Documents/tango_with_django_project/tango_with_django_project/urls.py",
+		"/home/reiss/Documents/tango_with_django_project/templates/rango/index.html",
+		"/home/reiss/Documents/tango_with_django_project/rango/admin.py",
+		"/home/reiss/Documents/tango_with_django_project/rango/models.py",
+		"/home/reiss/Documents/tango_with_django_project/tango_with_django_project/settings.py",
+		"/home/reiss/Documents/tango_with_django_project/templates/rango/about.html",
+		"/home/reiss/Documents/tango_with_django_project/populate_rango.py",
+		"/home/reiss/Documents/tango_with_django_project/.gitignore",
+		"/home/reiss/Documents/rango_tests-master/output/2253147g/results.json",
+		"/home/reiss/.config/sublime-text-3/Local/Session.sublime_session",
+		"/home/reiss/Documents/tango_with_django_project/rango/urls.py",
+		"/home/reiss/Documents/tango_with_django_project/rango/views.py",
+		"/home/reiss/Documents/rango/rango_project/rango_project/urls.py",
+		"/home/reiss/Documents/rango/rango_project/rango/views.py",
+		"/home/reiss/Documents/rango/rango_project/rango/urls.py",
+		"/home/reiss/Documents/rango/rango_project/manage.py",
+		"/home/reiss/Documents/Knapsack.asm.txt",
+		"/home/reiss/Documents/Knapsack.asm.bigbadbackupboiii.txt"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "templates/rango/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 950,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								898,
+								898
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "templates/rango/about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								251,
+								219
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 98.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++11/C++11.sublime-build",
+	"project": "rango.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/rango_tests-master/rango_tests.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
