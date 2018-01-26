@@ -39,17 +39,50 @@
 			"file": "templates/rango/index.html",
 			"settings":
 			{
-				"buffer_size": 950,
+				"buffer_size": 880,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "templates/rango/about.html",
+			"file": "/home/reiss/Documents/rango_tests-master/output/2253147aaa/report_errors.txt",
 			"settings":
 			{
-				"buffer_size": 374,
+				"buffer_size": 62139,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/reiss/Documents/rango_tests-master/output/2253147aaa/results.json",
+			"settings":
+			{
+				"buffer_size": 3465,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rango/views.py",
+			"settings":
+			{
+				"buffer_size": 846,
 				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rango/models.py",
+			"settings":
+			{
+				"buffer_size": 789,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/rango/category.html",
+			"settings":
+			{
+				"buffer_size": 458,
 				"line_ending": "Unix"
 			}
 		}
@@ -77,8 +110,8 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 384.0,
-		"last_filter": "install ",
+		"height": 134.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -94,7 +127,7 @@
 				"Install Package Control"
 			]
 		],
-		"width": 465.0
+		"width": 501.0
 	},
 	"console":
 	{
@@ -115,18 +148,20 @@
 	"expanded_folders":
 	[
 		"/home/reiss/Documents/tango_with_django_project",
+		"/home/reiss/Documents/tango_with_django_project/rango",
 		"/home/reiss/Documents/tango_with_django_project/templates",
 		"/home/reiss/Documents/tango_with_django_project/templates/rango"
 	],
 	"file_history":
 	[
+		"/home/reiss/Documents/tango_with_django_project/templates/rango/category.html",
+		"/home/reiss/Documents/tango_with_django_project/templates/rango/about.html",
 		"/home/reiss/Documents/rango_tests-master/output/2253147/results.json",
 		"/home/reiss/Documents/tango_with_django_project/tango_with_django_project/urls.py",
 		"/home/reiss/Documents/tango_with_django_project/templates/rango/index.html",
 		"/home/reiss/Documents/tango_with_django_project/rango/admin.py",
 		"/home/reiss/Documents/tango_with_django_project/rango/models.py",
 		"/home/reiss/Documents/tango_with_django_project/tango_with_django_project/settings.py",
-		"/home/reiss/Documents/tango_with_django_project/templates/rango/about.html",
 		"/home/reiss/Documents/tango_with_django_project/populate_rango.py",
 		"/home/reiss/Documents/tango_with_django_project/.gitignore",
 		"/home/reiss/Documents/rango_tests-master/output/2253147g/results.json",
@@ -173,7 +208,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -182,15 +217,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 950,
+						"buffer_size": 880,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								898,
-								898
+								574,
+								574
 							]
 						],
 						"settings":
@@ -202,24 +237,142 @@
 						"translation.y": 45.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "templates/rango/about.html",
+					"file": "/home/reiss/Documents/rango_tests-master/output/2253147aaa/report_errors.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 374,
+						"buffer_size": 62139,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								251,
-								219
+								499,
+								465
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 810.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/reiss/Documents/rango_tests-master/output/2253147aaa/results.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3465,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "rango/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 846,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12,
+								12
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "rango/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 789,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								406,
+								406
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "templates/rango/category.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
@@ -231,7 +384,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
