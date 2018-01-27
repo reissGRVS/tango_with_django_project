@@ -56,6 +56,7 @@ MIDDLEWARE_CLASSES = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
+
 ROOT_URLCONF = 'tango_with_django_project.urls'
 
 
@@ -90,6 +91,8 @@ DATABASES = {
 }
 
 
+LOGIN_URL = '/rango/login/'
+
 # Password validation
 # https://docs.djangoproject.com/en/1.9/ref/settings/#auth-password-validators
 
@@ -108,6 +111,10 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
+PASSWORD_HASHERS = {
+    'django.contrib.auth.hashers.PBKDF2PasswordHasher',
+    'django.contrib.auth.hashers.PBKDF2SHA1PasswordHasher'
+}
 
 # Internationalization
 # https://docs.djangoproject.com/en/1.9/topics/i18n/
