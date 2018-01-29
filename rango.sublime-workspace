@@ -4,6 +4,42 @@
 		"selected_items":
 		[
 			[
+				"last",
+				"last_visit_cookie"
+			],
+			[
+				"last_vi",
+				"last_visit_cookie"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect"
+			],
+			[
+				"rei",
+				"registered"
+			],
+			[
+				"user",
+				"user_form"
+			],
+			[
+				"regite",
+				"register"
+			],
+			[
+				"proi",
+				"profile_form"
+			],
+			[
+				"profi",
+				"profile_form"
+			],
+			[
 				"categ",
 				"category"
 			],
@@ -51,7 +87,89 @@
 			"file": "tango_with_django_project/settings.py",
 			"settings":
 			{
-				"buffer_size": 3681,
+				"buffer_size": 3710,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rango/models.py",
+			"settings":
+			{
+				"buffer_size": 1058,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rango/admin.py",
+			"settings":
+			{
+				"buffer_size": 403,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rango/forms.py",
+			"settings":
+			{
+				"buffer_size": 1109,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rango/views.py",
+			"settings":
+			{
+				"buffer_size": 4374,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/rango/login.html",
+			"settings":
+			{
+				"buffer_size": 461,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/rango/category.html",
+			"settings":
+			{
+				"buffer_size": 595,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/rango/register.html",
+			"settings":
+			{
+				"buffer_size": 629,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/rango/restricted.html",
+			"settings":
+			{
+				"buffer_size": 83,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "rango/urls.py",
+			"settings":
+			{
+				"buffer_size": 638,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
@@ -59,7 +177,16 @@
 			"file": "templates/rango/base.html",
 			"settings":
 			{
-				"buffer_size": 632,
+				"buffer_size": 930,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/rango/index.html",
+			"settings":
+			{
+				"buffer_size": 870,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -88,7 +215,7 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 338.0,
+		"height": 384.0,
 		"last_filter": "",
 		"selected_items":
 		[
@@ -142,6 +269,13 @@
 	],
 	"file_history":
 	[
+		"/home/reiss/Documents/tango_with_django_project/rango.sublime-project",
+		"/tmp/mozilla_reiss0/report_errors-1.txt",
+		"/home/reiss/Documents/rango_tests/output/reiss7/results.json",
+		"/tmp/mozilla_reiss0/results.json",
+		"/home/reiss/Documents/rango_tests/tests_chapter9.py",
+		"/home/reiss/Documents/rango_tests/output/reiss7/report_errors.txt",
+		"/home/reiss/Documents/rango_tests/output/reiss7/commits.txt",
 		"/home/reiss/Documents/tango_with_django_project/rango/templatetags/rango_template_tags.py",
 		"/home/reiss/Documents/rango_tests/output/22/results.json",
 		"/home/reiss/Documents/rango_tests/output/22/commits.txt",
@@ -215,7 +349,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -224,15 +358,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3681,
+						"buffer_size": 3710,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2552,
-								2552
+								1022,
+								1022
 							]
 						],
 						"settings":
@@ -243,27 +377,199 @@
 							"wrap_width": 120
 						},
 						"translation.x": 0.0,
-						"translation.y": 1260.0,
+						"translation.y": 495.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "templates/rango/base.html",
+					"file": "rango/models.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 632,
+						"buffer_size": 1058,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								371,
-								371
+								452,
+								452
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "rango/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								403,
+								403
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "rango/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1109,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								578,
+								578
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "rango/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4374,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1039,
+								1039
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "templates/rango/login.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 461,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								431,
+								431
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "templates/rango/category.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 595,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								512,
+								512
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 57.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "templates/rango/register.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 629,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								55,
+								55
 							]
 						],
 						"settings":
@@ -275,7 +581,121 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "templates/rango/restricted.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 83,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "rango/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 638,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								621,
+								621
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "templates/rango/base.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 930,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								595,
+								595
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 342.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "templates/rango/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 870,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
 					"type": "text"
 				}
 			]
@@ -338,8 +758,68 @@
 				"tango_with_django_project/settings.py"
 			],
 			[
+				"see",
+				"rango.sublime-project"
+			],
+			[
+				"vie",
+				"rango/views.py"
+			],
+			[
+				"set",
+				"tango_with_django_project/settings.py"
+			],
+			[
+				"log",
+				"templates/rango/login.html"
+			],
+			[
+				"fom",
+				"rango/forms.py"
+			],
+			[
+				"url",
+				"rango/urls.py"
+			],
+			[
+				"ca",
+				"templates/rango/category.html"
+			],
+			[
 				"bas",
 				"templates/rango/base.html"
+			],
+			[
+				"sett",
+				"tango_with_django_project/settings.py"
+			],
+			[
+				"inde",
+				"templates/rango/index.html"
+			],
+			[
+				"base",
+				"templates/rango/base.html"
+			],
+			[
+				"ur",
+				"rango/urls.py"
+			],
+			[
+				"vi",
+				"rango/views.py"
+			],
+			[
+				"forms",
+				"rango/forms.py"
+			],
+			[
+				"admi",
+				"rango/admin.py"
+			],
+			[
+				"mode",
+				"rango/models.py"
 			]
 		],
 		"width": 0.0
