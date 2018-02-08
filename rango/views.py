@@ -33,10 +33,6 @@ def visitor_cookie_handler(request):
 	if (datetime.now() - last_visit_time).days > 0:
 		visits = visits + 1
 		request.session['last_visit'] = str(datetime.now())
-	else:
-		#TODO: This makes no sense
-		visits = 1
-		request.session['last_visit'] = last_visit_cookie
 
 	request.session['visits'] = visits
 
